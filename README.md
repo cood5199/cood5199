@@ -4,8 +4,10 @@
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
 
-# My stats
-[![solved.ac cood5199](http://mazassumnida.wtf/api/v2/generate_badge?boj=cood5199)](https://solved.ac/cood5199)
+<h3 align="center">My Stats </h3>
+<div align="center">
+  [![solved.ac cood5199](http://mazassumnida.wtf/api/v2/generate_badge?boj=cood5199)](https://solved.ac/cood5199)
+</div>
 <!--
 **cood5199/cood5199** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
