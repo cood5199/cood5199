@@ -2,12 +2,16 @@
   <img src="https://capsule-render.vercel.app/api?type=rounded&color=dbc688&height=150&section=header&text=I'm Jo Min Jun&fontColor=ffffff&fontSize=40"/>
 </div>  
 
+___
+
 <h3 align="center">🙌 Who Am I 🙌</h3>
 <div align="center">
   <p>✔ I'm college student majoring in computer science</p>
   <p>✔ I'm currently learning python algorithm.</p>
   <br>
 </div>
+
+___
 
 <h3 align="center">💦 My Stats 💦</h3>
 <div align="center">
