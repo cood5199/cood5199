@@ -1,3 +1,10 @@
+<h3 align="center">😁Who Am I😁</h3>
+<div align="center">
+  <p>🙌 I'm college student majoring in computer science</p>
+  <p>🤔 I'm currently learning python algorithm.</p>
+  <br>
+</div>
+
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
 <p align="center">
