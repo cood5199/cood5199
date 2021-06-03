@@ -6,7 +6,7 @@
 
 <h3 align="center">My Stats </h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cood5199&hide_border=true&layout=compact"/>
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=cood5199">
 </div>
 <!--
 **cood5199/cood5199** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
