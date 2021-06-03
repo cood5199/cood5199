@@ -6,7 +6,7 @@
 
 <h3 align="center">My Stats </h3>
 <div align="center">
-  [![solved.ac cood5199](http://mazassumnida.wtf/api/v2/generate_badge?boj=cood5199)](https://solved.ac/cood5199)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cood5199&hide_border=true&layout=compact"/>
 </div>
 <!--
 **cood5199/cood5199** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
