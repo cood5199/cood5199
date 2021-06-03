@@ -1,7 +1,7 @@
 ___
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=dbc688&height=150&section=header&text=I'm Jo Min Jun&fontColor=ffffff&fontSize=40"/>
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=dbc688&height=150&section=header&text=I'm Cho Min Jun&fontColor=ffffff&fontSize=40"/>
 </div>  
 
 ___
